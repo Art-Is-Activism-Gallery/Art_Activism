@@ -10,8 +10,8 @@
     "orientation": "landscape",
     "icons": [
         {
-            "src": "thumbs/720.jpg",
-            "sizes": "720x720",
+            "src": "logo.png",
+            "sizes": "192x192",
             "type": "image/jpeg",
             "purpose": "any"
         },

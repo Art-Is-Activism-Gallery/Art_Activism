@@ -1,0 +1,25 @@
+{
+    "id": "com.artactivism.gallery",
+    "name": "Art As Activism",
+    "short_name": "Art Activism",
+    "description": "The work of Daniel Anguilu is a dialogue between line and color. This installation separates the mural into physical layers, allowing you to step between the initial strokes and the final artwork.",
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "orientation": "landscape",
+    "icons": [
+        {
+            "src": "thumbs/720.jpg",
+            "sizes": "720x720",
+            "type": "image/jpeg",
+            "purpose": "any"
+        },
+        {
+            "src": "logo.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any"
+        }
+    ]
+}
